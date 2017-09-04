@@ -1,0 +1,43 @@
+{
+    "manifest_version":2,
+    "theme":{
+        "colors": {
+            "bookmark_text": [ 18, 50, 114 ],
+            "button_background": [ 0, 0, 0, 0 ],
+            "control_background": [ 0, 0, 0, 0 ],
+            "frame": [ 175, 47, 61 ],
+            "frame_inactive": [ 255, 232, 232 ],
+            "frame_incognito": [ 83, 106, 139 ],
+            "frame_incognito_inactive": [ 126, 139, 156 ],
+            "ntp_background": [ 255, 255, 255 ],
+            "ntp_header": [ 75, 140, 220 ],
+            "ntp_link": [ 6, 55, 116 ],
+            "ntp_section": [ 229, 239, 254 ],
+            "ntp_section_link": [ 6, 55, 116 ],
+            "ntp_section_text": [ 0, 0, 0 ],
+            "ntp_text": [ 0, 0, 0 ],
+            "tab_background_text": [ 33,37,43 ],
+            "tab_text": [ 33, 37, 43 ],
+            "toolbar": [ 240, 240, 243 ]
+        },
+        "tints":{
+            "buttons":[
+                62,
+                169,
+                67
+            ]
+        },
+        "properties":{
+            "ntp_background_alignment":"bottom",
+            "ntp_background_repeat":"no-repeat"
+        }
+    },
+    "name":"Culture Amp Theme - Coral",
+    "version":"1",
+    "description":"",
+    "icons": {
+        "16": "Coral16.png",
+        "48": "Coral48.png",
+        "128": "Coral128.png"
+    },
+}
